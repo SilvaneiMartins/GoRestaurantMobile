@@ -49,7 +49,7 @@ $ yarn start
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/SilvaneiMartins/GoRestaurantMobile/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/GoRestaurantMobile/blob/master/LICENSE) Para maiores informações.
 
 ---
 
