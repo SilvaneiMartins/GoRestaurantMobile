@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/FHDqgzV"><img src="https://i.imgur.com/FHDqgzV.png" title="source: imgur.com">
+  <a href="https://imgur.com/FHDqgzV"><img src="https://i.imgur.com/FHDqgzV.png" title="source: imgur.com" /></a>
 </p>
 
 <p align="center">
-    <img src="https://imgur.com/o5v1xvM"><img src="https://i.imgur.com/o5v1xvM.jpg" title="source: imgur.com">
+    <a href="https://imgur.com/o5v1xvM"><img src="https://i.imgur.com/o5v1xvM.jpg" title="source: imgur.com" /></a>
 </p>
 
 ## :rocket: Tecnologias
