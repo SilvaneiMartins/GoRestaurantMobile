@@ -6,19 +6,19 @@
   Essa será uma aplicação que irá se conectar a uma Fake API, e exibir e filtrar os pratos de comida da API e permitir a criação de novos pedidos.
 </h4>
 
-<p align="left">
+<p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
 
 <p align="center">
-  <img alt="Test da Aplicação" src="https://imgur.com/FHDqgzV"><img src="https://i.imgur.com/FHDqgzV.png" title="source: imgur.com">
+  <img src="https://imgur.com/FHDqgzV"><img src="https://i.imgur.com/FHDqgzV.png" title="source: imgur.com">
 </p>
 
 <p align="center">
   <a href="https://imgur.com/o5v1xvM" target="_blank">
-    <img alt="Aplicação Mobile" src="https://imgur.com/o5v1xvM"><img src="https://i.imgur.com/o5v1xvM.jpg" title="source: imgur.com">
+    <img src="https://imgur.com/o5v1xvM"><img src="https://i.imgur.com/o5v1xvM.jpg" title="source: imgur.com">
   </a>
 </p>
 
