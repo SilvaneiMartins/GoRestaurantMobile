@@ -17,9 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://imgur.com/o5v1xvM" target="_blank">
     <img src="https://imgur.com/o5v1xvM"><img src="https://i.imgur.com/o5v1xvM.jpg" title="source: imgur.com">
-  </a>
 </p>
 
 ## :rocket: Tecnologias
